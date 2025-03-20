@@ -14,9 +14,9 @@
 
 >[!WARNING]
 >Перед самым началом, необходимо убедиться, что наш процессор поддерживает виртуализацию, поэтому необходимо загуглить модель своего камня и проверить пукнт Virtualization. В случае, если процессор от Intel, можно скачать [Intel Proccessor Identification Utility](https://www.intel.com/content/www/us/en/download/12136/intel-processor-identification-utility-windows-version.html?wapkw=intel%20processor%20identification%20utility%20legacy) (На сайт переходить ***строго*** с включенным VPN).
-![[./img/intel ident.png]]
+![](./img/intel-ident.png)
 
-- Заходим в БИОС и проверяем включенность всех флажков Virtualization во вкладке Security![[bios.png]]
+- Заходим в БИОС и проверяем включенность всех флажков Virtualization во вкладке Security![](./img/bios.png)
 - 
 - 
 # Установка VMWare Workstation Pro
@@ -33,12 +33,12 @@
 
 -  Для начала, необходимо скачать платформу [VMWare Workstation Pro](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion), она бесплатная, но я бы рекомендовал перед переходом на сайт, включить VPN.
 - При нажатии на кнопку скачивания, нас перекидывает на сайт broad.com, где необходимо зарегистрироваться.
-![[brodacom.png]]
+![](./img/broadcom.png)
 > [!TIP]
 > Во время регистрации потребуется ввести регион и адрес. Я же ввел регион США и вставил рандомный адрес.
 
-- После успешной регистрации нажимаем на лупу и в строке поиска появившегося нового окна пишем *VMWare Workstation pro*.![[broadcom1.png]]
--  Нас интересует данная ссылка, переходим по ней.![[broadcom2.png]]
-- Нажимаем на необходимую ссылку, скачиваем и устанавливаем Workstation.![[broadcom3.png]]
-- Выбираем VMWare Workstation Pro for Personal use (в большинстве случаев Windows) далее скачиваем и устанавливаем.![[broadcom4.png]]
+- После успешной регистрации нажимаем на лупу и в строке поиска появившегося нового окна пишем *VMWare Workstation pro*.![broadcom1.png](./img/broadcom1.png)
+-  Нас интересует данная ссылка, переходим по ней.![](./img/broadcom2.png)
+- Нажимаем на необходимую ссылку.![broadcom3.png](./img/broadcom3.png)
+- Выбираем VMWare Workstation Pro for Personal use (в большинстве случаев Windows) далее скачиваем и устанавливаем.![](./img/broadcom4.png)
 
